@@ -9,13 +9,13 @@ This repository contains multiple fine-tuned model checkpoints developed for the
 All model checkpoints are bundled as a single `.zip` file and available via Google Drive. 
 
 📥 **Download Link**  
-[🔗 Click here to download the full model archive](https://drive.google.com/uc?id=YOUR_FILE_ID)
+[🔗 Click here to download the full model archive](https://drive.google.com/file/d/1Otffk1vPcetD758IK2TWV68mT2qYUsMP/view?usp=drive_link)
 
 Or download via command line:
 ```bash
 pip install gdown
-gdown "https://drive.google.com/uc?id=YOUR_FILE_ID" --output dacon_models.zip
-unzip dacon_models.zip
+gdown "https://drive.google.com/uc?id=YOUR_FILE_ID" --output model.zip
+unzip model.zip
 ```
 ---
 ### Included Checkpoints
