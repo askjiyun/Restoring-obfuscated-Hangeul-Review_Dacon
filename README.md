@@ -14,7 +14,7 @@ All model checkpoints are bundled as a single `.zip` file and available via Goog
 Or download via command line:
 ```bash
 pip install gdown
-gdown "https://drive.google.com/uc?id=YOUR_FILE_ID" --output model.zip
+gdown "https://drive.google.com/file/d/1Otffk1vPcetD758IK2TWV68mT2qYUsMP/view?usp=drive_link" --output model.zip
 unzip model.zip
 ```
 ---
